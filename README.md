@@ -1,2 +1,2 @@
-I am a computer engineering student. I mostly have Java programming posts here. I can also share about android programming.
+I am newly graduate software developer.. I share all my work from here.
 ![](https://komarev.com/ghpvc/?username=fuatyavrum97)
