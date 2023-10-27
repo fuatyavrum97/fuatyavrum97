@@ -1,6 +1,6 @@
-## Hi there,I'm Alperen Akgün. :slightly_smiling_face:
+## Hi there,I'm Fuat Yavrum. :slightly_smiling_face:
 
-### Fullstack Developer :man_technologist:
+### I am newly graduate Software Developer :man_technologist:
 
 ### Connect with me:
 
