@@ -1,4 +1,4 @@
-## Hi there,I'm Fuat Yavrum. :slightly_smiling_face:
+## Hi there, I'm Fuat Yavrum. :slightly_smiling_face:
 
 ### I am newly graduate Software Developer :man_technologist:
 
