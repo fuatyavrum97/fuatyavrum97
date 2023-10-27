@@ -3,8 +3,9 @@
 ### I am newly graduate Software Developer :man_technologist:
 
 ### Connect with me:
-
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 <br/>
 <br/>
 
