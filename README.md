@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20views&color=0e75b6&style=flat" alt="fuatyavrum97" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fuatyavrum97&theme=flat&no-frame=true&margin-w=10" alt="fuatyavrum97" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/fuat-yavrum" target="blank">
@@ -58,10 +52,4 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="center"
-       src="https://streak-stats.demolab.com/?user=fuatyavrum97"
-       alt="fuatyavrum97" />
 </p>
