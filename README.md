@@ -6,11 +6,9 @@
   <br/>
 
   <p>
-    <b>Software Developer with a strong focus on native Android development.</b>
-    <br/>
-    I build scalable and maintainable Android applications using <b>Kotlin</b> and <b>Java</b>.
-    <br/>
-    Currently focused on developing real-world Android projects and preparing apps for the Google Play Store.
+    <b>Software Developer with a strong focus on native Android development.</b><br/>
+    I build scalable and maintainable Android applications using <b>Kotlin</b> and <b>Java</b>.<br/>
+    Currently focused on real-world Android projects and Google Play Store publishing.
   </p>
 
   <br/>
@@ -23,54 +21,24 @@
 
   <h3>🛠 Tech Stack & Tools</h3>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,idea,git,spring,cs,python,html,css,js,bootstrap,mysql&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,idea,git,spring,cs,python,html,css,js,bootstrap,mysql&theme=dark" />
 
   <br/><br/>
 
   <h3>📊 GitHub Statistics</h3>
 
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api
-      ?username=fuatyavrum97
-      &show_icons=true
-      &theme=tokyonight
-      &hide_border=true
-      &bg_color=0D1117"
-      alt="GitHub Stats" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/
-      ?username=fuatyavrum97
-      &layout=compact
-      &langs_count=5
-      &hide=html,css,scss
-      &size_weight=0.5
-      &count_weight=0.5
-      &theme=tokyonight
-      &hide_border=true
-      &bg_color=0D1117"
-      alt="Top Languages" />
-  </p>
+  <br/><br/>
 
-  <p align="center">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/
-      ?user=fuatyavrum97
-      &theme=tokyonight
-      &hide_border=true
-      &background=0D1117"
-      alt="GitHub Streak" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatyavrum97&layout=compact&langs_count=5&hide=html,css,scss&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-  <br/>
+  <br/><br/>
 
-  <img 
-    src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20Views&color=blue&style=flat"
-    alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatyavrum97&theme=tokyonight&hide_border=true&background=0D1117" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
