@@ -1,46 +1,46 @@
-## Hi there, I'm Fuat Yavrum. :slightly_smiling_face:
+<div align="center">
 
-### I am newly graduate Software Developer :man_technologist:
+  <h1>Hi there, I'm Fuat Yavrum! 👋</h1>
+  <h2>🚀 Android Developer | Software Engineer</h2>
 
-### Connect with me:
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+  <br/>
 
-<br/>
-<br/>
+  <p align="center">
+    <b>I am a newly graduated Software Developer with a strong passion for Mobile Application Development.</b>
+    <br/>
+    I specialize in building native Android applications using <b>Kotlin</b> and <b>Java</b>. 
+    <br/>
+    Currently, I am focused on developing and publishing my own projects for the Google Play Store.
+  </p>
 
-### Languages and Tools:
+  <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/>
+  <a href="https://tr.linkedin.com/in/fuat-yavrum" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/>
+  <br/><br/>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/>
+  <h3>🛠 Tech Stack & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,idea,git,spring,cs,python,html,css,js,bootstrap,mysql&theme=dark" />
+  </p>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40"/>
+  <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="40" height="40">
+  <h3>📊 GitHub Stats</h3>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatyavrum97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  </div>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="40" height="40"/>
+  <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="40" height="40"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatyavrum97&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" />
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40" height="40"/>
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20Views&color=blue&style=flat" alt="visitors" />
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40"/>
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40"/>
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
-
-<p>&nbsp</p>
-<p>&nbsp</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&locale=en" alt="fuatyavrum97" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatyavrum97&show_icons=true&locale=en&layout=compact" alt="fuatyavrum97" /></p>
-
-[linkedin]:https://tr.linkedin.com/in/fuat-yavrum
-
-![](https://komarev.com/ghpvc/?username=fuatyavrum97)
+</div>
