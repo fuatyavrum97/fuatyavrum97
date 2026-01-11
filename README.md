@@ -1,16 +1,16 @@
 <div align="center">
 
-  <h1>Hi there, I'm Fuat Yavrum! 👋</h1>
+  <h1>Hi there, I'm Fuat Yavrum 👋</h1>
   <h2>🚀 Android Developer | Software Engineer</h2>
 
   <br/>
 
   <p>
-    <b>I am a newly graduated Software Developer with a strong passion for Mobile Application Development.</b>
+    <b>Software Developer with a strong focus on native Android development.</b>
     <br/>
-    I specialize in building native Android applications using <b>Kotlin</b> and <b>Java</b>. 
+    I build scalable and maintainable Android applications using <b>Kotlin</b> and <b>Java</b>.
     <br/>
-    Currently, I am focused on developing and publishing my own projects for the Google Play Store.
+    Currently focused on developing real-world Android projects and preparing apps for the Google Play Store.
   </p>
 
   <br/>
@@ -22,28 +22,55 @@
   <br/><br/>
 
   <h3>🛠 Tech Stack & Tools</h3>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=android,kotlin,java,idea,git,spring,cs,python,html,css,js,bootstrap,mysql&theme=dark" />
   </a>
 
   <br/><br/>
 
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 GitHub Statistics</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatyavrum97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api
+      ?username=fuatyavrum97
+      &show_icons=true
+      &theme=tokyonight
+      &hide_border=true
+      &bg_color=0D1117"
+      alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatyavrum97&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/
+      ?username=fuatyavrum97
+      &layout=compact
+      &langs_count=5
+      &hide=html,css,scss
+      &size_weight=0.5
+      &count_weight=0.5
+      &theme=tokyonight
+      &hide_border=true
+      &bg_color=0D1117"
+      alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/
+      ?user=fuatyavrum97
+      &theme=tokyonight
+      &hide_border=true
+      &background=0D1117"
+      alt="GitHub Streak" />
   </p>
 
   <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20Views&color=blue&style=flat" alt="visitors" />
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=fuatyavrum97&label=Profile%20Views&color=blue&style=flat"
+    alt="Profile Views" />
 
 </div>
