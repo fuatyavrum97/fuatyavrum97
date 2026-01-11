@@ -61,18 +61,6 @@
 </p>
 
 <p>
-  <img align="left"
-       src="https://github-readme-stats-pi.vercel.app/api/top-langs/?username=fuatyavrum97&show_icons=true&locale=en&layout=compact"
-       alt="fuatyavrum97" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats-pi.vercel.app/api?username=fuatyavrum97&show_icons=true&locale=en"
-       alt="fuatyavrum97" />
-</p>
-
-<p>
   <img align="center"
        src="https://streak-stats.demolab.com/?user=fuatyavrum97"
        alt="fuatyavrum97" />
