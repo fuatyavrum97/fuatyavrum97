@@ -31,15 +31,15 @@
   <h3>📊 GitHub Stats</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="fuatyavrum97 github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fuatyavrum97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatyavrum97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="fuatyavrum97 top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatyavrum97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatyavrum97&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="fuatyavrum97 streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuatyavrum97&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
   </p>
 
   <br/>
